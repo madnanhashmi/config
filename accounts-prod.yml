@@ -4,11 +4,11 @@ spring:
       on-profile: "prod"
 
 build:
-  version: "4.0.3"
+  version: "4.0"
 
 #prefix
 accounts:
-  message: "Config Server - Welcome to EazyBank accounts related local APIs prod - 4.0.5"
+  message: "Config Server - Welcome to EazyBank accounts related local APIs prod - 4.0"
   contactDetails:
     name: "Adnan Hashmi - Production"
     email: "{cipher}f06e57f87ed35bff0d0eaf0c082c73e53f293db1ed12be141593f0d696475d175b2fb5538fcbf86798adca88d5cdb746"
