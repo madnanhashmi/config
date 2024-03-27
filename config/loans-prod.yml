@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "4.0"
+
+cards:
+  message: "Config Server - Welcome to EazyBank loans related pro APIs "
+  contactDetails:
+    name: "Sandra Harald - production Owner"
+    email: "sandra@eazybank.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721
