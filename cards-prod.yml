@@ -2,9 +2,9 @@ spring:
   config:
     activate:
       on-profile: "prod"
-      
+
 build:
-  version: "1.0"
+  version: "4.0"
 
 cards:
   message: "Config Server - Welcome to EazyBank cards related prod APIs "
