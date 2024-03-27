@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA APIs 3.0"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@eazybank.com"

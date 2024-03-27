@@ -7,7 +7,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "Config Server - Welcome to EazyBank loans related pro APIs "
+  message: "Config Server - Welcome to EazyBank loans related pro APIs 4.0"
   contactDetails:
     name: "Sandra Harald - production Owner"
     email: "sandra@eazybank.com"

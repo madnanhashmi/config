@@ -2,7 +2,7 @@ build:
   version: "2.0"
 #prefix
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related local APIs 2.0"
   contactDetails:
     name: "Adnan Hashmi - Developer"
     email: "madnanhashmi@hotmail.com"

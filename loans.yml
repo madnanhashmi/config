@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Config Server - Welcome to EazyBank loans related default APIs "
+  message: "Config Server - Welcome to EazyBank loans related default APIs 2.0"
   contactDetails:
     name: "Sandra Harald - default Owner"
     email: "sandra@eazybank.com"
